@@ -96,9 +96,7 @@ Expected console output:
 
 FIFO Test Completed
 🔹 Example Waveform
-
-(Insert screenshot here)
-
+It is in assets folder
 Waveform shows:
 
 Correct pointer increment
